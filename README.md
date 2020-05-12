@@ -1,5 +1,6 @@
 # Lab: Class 02 - Modules and Testing (math-series)
-link to PR:
+link to PR:  
+https://github.com/PengChen11/math-series/pull/1
 
 click to [series.py](math_series/series.py)
 
